@@ -13,3 +13,10 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+
+1- npm init -y
+2- npm install -D hardhat
+3- npx hardhat
+4- npm install -D @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
+5- npx hardhat run scripts/sample-script.js
