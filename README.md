@@ -20,3 +20,4 @@ npx hardhat help
 3- npx hardhat
 4- npm install -D @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
 5- npx hardhat run scripts/sample-script.js
+6 -  npx hardhat run scripts/sample-script.js --network rinkeby
